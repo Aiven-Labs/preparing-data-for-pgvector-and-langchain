@@ -1,0 +1,11 @@
+arrow
+ipywidgets
+jupyter
+langchain
+langchain_community
+langchain-huggingface
+langchain-openai
+python-dotenv
+psycopg2
+python-frontmatter
+sentence-transformers
