@@ -2,9 +2,9 @@ arrow
 ipywidgets
 jupyter
 langchain
-langchain_community
 langchain-huggingface
 langchain-openai
+langchain-postgres
 python-dotenv
 psycopg2
 python-frontmatter

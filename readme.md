@@ -9,7 +9,7 @@ This workshop aims to take unprepared data and make it usable with a Retrieval A
 In this workshop, we'll be using [Aiven for PostgreSQL](https://aiven.io/postgresql) and [LangChain](https://www.langchain.com/) to:
 
 - Chunk transcription data and generate embeddings
-- Configure our PostgreSQL with PGVector to add _Known Nearest Neighbors_ (KNN) and perform a vector search.
+- Configure our PostgreSQL with PGVector to add _Known Nearest Neighbors_ (KNN) support and perform a vector search.
 - Connect our search responses to an Large Language Model (LLM) to generate informed answers using LangChain
 
 ## Getting Started
